@@ -8,7 +8,7 @@ I am currently a student and a developer open for commissions
 
 Skills: JS / PY / LUA
 
-- 🔭 I’m currently working on a node.js discord bot.
+- 🔭 I’m currently working on a discord bot.
 - 🌱 Learning Lua
 - 💞️ Open for collaborations 
 
