@@ -23,5 +23,4 @@ Hey, I'm [Lyn1](https://lyn1.me) a self taught developer. My pronouns are he/him
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lyn1XD&count_private=true&show_icons=true&hide=issues&theme=material-palenight)
 
-![](https://img.shields.io/swagger/valid/3.0)
 ![](https://img.shields.io/badge/Based-Very-9080c2)
