@@ -1,5 +1,5 @@
 ### About
-Hey, I'm [Lyn1](https://lyn1.me) a self taught developer. My pronouns are he/him. I like to work on Minecraft clients, Discord bots, and anything else that piques my interests. If you need to contact me dm me on discord Lyn1#3015.
+Hey, I'm [Lyn1](https://lyn1.me) a self taught developer. My pronouns are he/him. I like to work on Minecraft clients, Discord bots, and anything else that piques my interests. If you need to contact me dm me on discord Lyn1#3015. Low key dont use github much anymore.
 
 ### Current Projects
 * None as of now
